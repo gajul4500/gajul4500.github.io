@@ -2,7 +2,7 @@
 
 Backend-focused Full Stack Developer with 2+ years of experience building scalable, production-ready web applications using Laravel, MySQL, and REST APIs. I specialize in backend architecture, database optimization, and real-time data processing.
 
-🔗 **Live Portfolio:** gajul4500.github.ioportfolio  
+🔗 **Live Portfolio:** gajul4500.github.io  
 📄 **Resume:** Shubham_Gajul_Resume.pdf  
 
 ---
